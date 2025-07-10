@@ -1,6 +1,6 @@
 # Proposal for ISMB/ECCB 2025 CoFest
 
-Proposal for [ISMB/ECCB 2025 CollaborationFest](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/): using genAI to co-create training materials for schemas.science
+Proposal for [ISMB/ECCB 2025 CollaborationFest](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/): using genAI to co-create training materials for schemas.science. *We chose not to submit this proposal to ISMB/ECCB in the end, due to prior commitments.*
 
 ## Project title
 Using genAI to co-create training materials for schemas.science
