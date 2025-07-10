@@ -26,8 +26,9 @@ Our current objectives are:
 1. Extend the generated user guides to include more detail of each property.
 2. Better automate the process of populating templates and Markdown files.
 3. Better automate the process of prompting the LLM.
-4. Publish the generated materials on the production site.
-5. Document our method.
+4. Produce a user guide for all schemas.science profiles.
+5. Publish the generated materials on the production site.
+6. Document our method.
 
 ## Additional information 
 This project follows on from the [BOSC & BOKR](https://www.iscb.org/ismbeccb2025/programme-agenda/scientific-programme/bosc) talk: "Applications of Bioschemas in FAIR, AI and knowledge representation" on Tuesday, 22 July, by Nick Juty, The University of Manchester, UK. A proof of concent was developed at a [Bioschemas public hackathon](https://zbmed-semtec.github.io/nfdi4ds-hackathons/docs/2025.html#bioschemas-hackathon) at ZB MED, Cologne, Germany, in June 2025. See the [dev-docs branch](https://github.com/schemas-science/schemas-science.github.io/tree/dev-docs) for details.
