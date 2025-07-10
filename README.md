@@ -30,7 +30,7 @@ Our current objectives are:
 5. Document our method.
 
 ## Additional information 
-This project follows on from the [BOSC & BOKR](https://www.iscb.org/ismbeccb2025/programme-agenda/scientific-programme/bosc) talk: "Applications of Bioschemas in FAIR, AI and knowledge representation" on Tuesday, 22 July, by Nick Juty, The University of Manchester, UK. A proof of concent was developed at a Bioschemas public hackathon at ZB MED, Cologne, Germany, in June 2025. See the [dev-docs branch](https://github.com/schemas-science/schemas-science.github.io/tree/dev-docs) for details.
+This project follows on from the [BOSC & BOKR](https://www.iscb.org/ismbeccb2025/programme-agenda/scientific-programme/bosc) talk: "Applications of Bioschemas in FAIR, AI and knowledge representation" on Tuesday, 22 July, by Nick Juty, The University of Manchester, UK. A proof of concent was developed at a [Bioschemas public hackathon](https://zbmed-semtec.github.io/nfdi4ds-hackathons/docs/2025.html#bioschemas-hackathon) at ZB MED, Cologne, Germany, in June 2025. See the [dev-docs branch](https://github.com/schemas-science/schemas-science.github.io/tree/dev-docs) for details.
 
 ![Flow](images/ss-prompt.png)
 The process 
