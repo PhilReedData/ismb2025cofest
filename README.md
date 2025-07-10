@@ -15,7 +15,7 @@ This structured information then makes it easier to discover, collate, analyse a
 
 The challenge is to create user guides for each profile, similar to the [Dataset guide from science-on-schema.org](https://github.com/ESIPFed/science-on-schema.org/blob/main/guides/Dataset.md). We propose the use of generative AI tools to assist the human and produce better guides, faster.
 
-- In this work, the LLM is given a prompt to create realistic scientific examples of profiles such as [TrainingMaterial](https://schemas.science/profiles/TrainingMaterial/) and [ComputationalTool](https://schemas.science/profiles/ComputationalTool/).
+- In this work, the LLM is given a prompt to create realistic scientific examples of profiles such as [TrainingMaterial](https://schemas.science/profiles/TrainingMaterial/) and [ComputationalTool](https://schemas.science/profiles/ComputationalTool/). For example, it genereated a use of the TrainingMaterial profile as "A recorded webinar exploring the science of climate change and the complexities of policy-making processes. Aimed at graduate students and policy professionals."
 - It generates JSON-LD code for these examples, generating and populating the mandoary properties and some of the recommended properties. 
 - It generates a Mermaid diagram to visualise the structure.
 - The human then checks the code is complete and valid, making necessary corrections. 
