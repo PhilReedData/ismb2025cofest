@@ -13,7 +13,8 @@ It does this by encouraging the use of [Schema.org](https://schema.org/) markup 
 schemas.science encourages the consistent use of markup tailored for diverse scientific domains. 
 This structured information then makes it easier to discover, collate, analyse and consume distributed resources.
 
-The challenge is to create user guides for each profile, similar to the [Dataset guide from science-on-schema.org](https://github.com/ESIPFed/science-on-schema.org/blob/main/guides/Dataset.md). We propose the use of generative AI tools to assist the human and produce better guides, faster.
+The challenge is to create user guides for each profile, similar to the [Dataset guide from science-on-schema.org](https://github.com/ESIPFed/science-on-schema.org/blob/main/guides/Dataset.md), following the [approach taken with Bioschemas](https://bioschemas.org/profiles/Dataset/1.0-RELEASE). 
+We propose the use of generative AI tools to assist the human and produce better guides, faster.
 
 - In this work, the LLM is given a prompt to create realistic scientific examples of profiles such as [TrainingMaterial](https://schemas.science/profiles/TrainingMaterial/) and [ComputationalTool](https://schemas.science/profiles/ComputationalTool/). For example, it genereated a use of the TrainingMaterial profile as "A recorded webinar exploring the science of climate change and the complexities of policy-making processes. Aimed at graduate students and policy professionals."
 - It generates JSON-LD code for these examples, generating and populating the mandoary properties and some of the recommended properties. 
