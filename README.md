@@ -31,3 +31,13 @@ Our current objectives are:
 
 ## Additional information 
 This project follows on from the [BOSC & BOKR](https://www.iscb.org/ismbeccb2025/programme-agenda/scientific-programme/bosc) talk: "Applications of Bioschemas in FAIR, AI and knowledge representation" on Tuesday, 22 July, by Nick Juty, The University of Manchester, UK. A proof of concent was developed at a Bioschemas public hackathon at ZB MED, Cologne, Germany, in June 2025. See the [dev-docs branch](https://github.com/schemas-science/schemas-science.github.io/tree/dev-docs) for details.
+
+![Flow](images/ss-prompt.png)
+The process 
+
+![JSON-LD](images/ss-trainingmaterial-jsonld.png)
+Screenshot of the generated description and JSON-LD for a profile
+
+
+![Diagram](images/ss-trainingmaterial-diagram.png)
+Screenshot of the generated Mermaid diagram, rendered by an MkDocs plugin
