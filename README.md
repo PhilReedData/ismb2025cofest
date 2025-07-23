@@ -1,6 +1,7 @@
 # Proposal for ISMB/ECCB 2025 CoFest
 
-Proposal for [ISMB/ECCB 2025 CollaborationFest](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/): using genAI to co-create training materials for schemas.science. *We chose not to submit this proposal to ISMB/ECCB in the end, due to prior commitments.*
+Proposal for [ISMB/ECCB 2025 CollaborationFest](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/): using genAI to co-create training materials for schemas.science. 
+*We ran this as an unofficial mini project.*
 
 ## Project title
 Using genAI to co-create training materials for schemas.science
@@ -43,3 +44,10 @@ Screenshot of the generated description and JSON-LD for a profile
 
 ![Diagram](images/ss-trainingmaterial-diagram.png)
 Screenshot of the generated Mermaid diagram, rendered by an MkDocs plugin
+
+## Collaborative notes
+
+- [Notes on Google Docs](https://docs.google.com/document/d/1ZYIAgQo8jCaOYahHub8V94mdIlhdoV6JAXKv1BNCqVI/edit?tab=t.0)
+
+
+
